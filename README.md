@@ -5,3 +5,5 @@ Scikit pt.1 - https://colab.research.google.com/drive/16ArF_OJxzsg-W10OZ_hSXkord
 
 
 Scikit pt.2 - https://colab.research.google.com/drive/1j64vZLUxrz5XrIK28amC666nQ-RxrvVp?usp=sharing
+
+Documentation - https://orphelucia.github.io/scikit-learn.org-stable/skit/
